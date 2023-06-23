@@ -19,7 +19,7 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 ʙᴏᴛ ᴛᴏᴘ ɢʟᴏʙᴀʟ 」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
 │➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
